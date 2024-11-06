@@ -20,3 +20,6 @@ Technologies Used:
 - HTML: Structures the game grid and other interface elements.
 - CSS: Styles the game board, cells, and buttons.
 - JavaScript: Handles the game logic, such as opening cells, checking for adjacent mines, and tracking the game state (win/lose).
+
+
+![image](https://github.com/user-attachments/assets/1744bd6c-ed1f-46d0-bd31-b10db0b10670)
